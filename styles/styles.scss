@@ -288,7 +288,7 @@ section{
             line-height: 2rem;
             padding: 1rem;
             color: var(--color-grey-1);
-            font-size: 1.26rem;
+            font-size: 1rem;
             word-break:keep-all;
             text-align: justify;
             text-justify: distribute;
@@ -335,12 +335,12 @@ section{
                         width: 60%;
                     }
                     .html { width: 80%; }
-                    .css { width: 70%; }
+                    .css { width: 85%; }
                     .javascript { width: 90%; }
-                    .react { width: 60%; }
-                    .sass{ width: 80%;}
-                    .sql{ width: 70%;}
-                    .node{ width: 75%;}
+                    .react { width: 40%; }
+                    .sass{ width: 85%;}
+                    .sql{ width: 60%;}
+                    .node{ width: 50%;}
                     .git{ width: 95%;}
                 }
             }
