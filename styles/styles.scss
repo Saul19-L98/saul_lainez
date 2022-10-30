@@ -435,6 +435,15 @@ section{
 .port-text{
     padding: 2rem 0;
     text-align: center;
+    &-js{
+        color:#fcdc00 !important;
+    }
+    &-sass{
+        color:#bf4080;
+    }
+    &-tail{
+        color:#0EA5E9;
+    }
 }
 
 .portfolios{
